@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟢 Open to Work — Junior Business Analyst / Junior Data Analyst | London | No Sponsorship Required\
+🟢 Open to Work — Junior Business Analyst / Insight Analyst | London | No Sponsorship Required\
 Data professional with 4 years at Globallogic Technologies (Hitachi Group) and an MSc in Business Analytics from the University of Greenwich (Merit, 2026). I build end-to-end analytical projects in Python, SQL, and Power BI — covering NLP-based complaint intelligence, customer churn prediction, and panel regression research. Based in London, open to Junior Business Analyst and Junior Data Analyst roles. Right to work in the UK — no sponsorship required.
 
 
